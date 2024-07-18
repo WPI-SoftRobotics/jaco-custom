@@ -1,3 +1,5 @@
+> The following README has been carried over from the existing kinova-ros repository.
+
 # Table of Contents 
 - [Important](#important) 
 - [Supported versions](#supported-versions)
